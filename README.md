@@ -2,4 +2,4 @@
 
 Het concept
 
-![image](/Schermafbeelding 2026-05-11 123145)
+![image](/Schermafbeelding 2026-05-11 123145.png)

@@ -17,3 +17,5 @@ Het ornaje block(de bumpers)veranderen de directie van de stok
 ## Wall/Damage
 
 ## Healing pads
+
+## Camera Movement

@@ -9,3 +9,11 @@ je speelt hier als een alien die in zijn schip(als form van een stok) door de le
 ## Movement:
 je draait constant en je kunt vrij bewegen door het level<p>
 ![gifMovement](/Fotos/Stickmovement.gif)
+
+## Bumpers
+![](/Fotos/BumperYes.gif)
+Het ornaje block(de bumpers)veranderen de directie van de stok
+
+## Wall/Damage
+
+## Healing pads
